@@ -1,0 +1,6 @@
+
+### 1
+
+Built out all the providers here: \\ostcnfs-01\OSTCDATA\Team\v-zhenpy\providers 
+
+So we have new task: copy the provider to remote Linux client and register it using omireg, Betty, can you help to assign it? thanks.

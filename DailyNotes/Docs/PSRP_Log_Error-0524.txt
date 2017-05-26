@@ -1,0 +1,50 @@
+powershell -c '$PWord = Convertto-SecureString "Pine#Tar*9" -AsPlainText -Force;
+$cred = New-Object -TypeName System.Management.Automation.PSCredential -ArgumentList "root", $PWord ;
+$sessionOption = New-PSSessionOption -SkipCACheck -SkipRevocationCheck -SkipCNCheck ;
+$mySession = New-PSSession -ComputerName OMITST-CENT7-01.SCX.COM -Credential $cred -Authentication Basic -UseSSL -SessionOption $sessionOption;
+$result = Invoke-Command -Session $mySession {Get-Host};
+$result;
+Get-PSSession|Remove-PSSession'
+
+
+
+powershell -c '$PWord = Convertto-SecureString "Pine#Tar*9" -AsPlainText -Force;
+$cred = New-Object -TypeName System.Management.Automation.PSCredential -ArgumentList "administrator", $PWord ;
+$sessionOption = New-PSSessionOption -SkipCACheck -SkipRevocationCheck -SkipCNCheck ;
+$mySession = New-PSSession -ComputerName OMITST-W12R2-01.SCX.COM -Credential $cred -Authentication Basic  -SessionOption $sessionOption;
+$result = Invoke-Command -Session $mySession {Get-Host};
+$result; Get-PSSession|Remove-PSSession'
+
+
+
+$cred = New-Object -TypeName System.Management.Automation.PSCredential -ArgumentList $User, $PWord
+$sessionOption = New-PSSessionOption -SkipCACheck -SkipRevocationCheck -SkipCNCheck
+$mySession = New-PSSession -ComputerName $hostname -Credential $cred -Authentication Basic -SessionOption $sessionOption
+$result = Invoke-Command -Session $mySession {Get-Host}
+$result
+
+--------------------------------------------------------------------------------------------------------
+PSRP-W12R2-01   Deleted!
+
+PSRP-W2016-02
+
+OMITST-W12R2-01.SCX.COM  Auto Run
+
+New-NebWindowsVM -envName:PST -machineName:PSRP-W12R2-01 -vhdName:"Windows Server 2012 R2 DC w/SQL 2014 (SCX Joined)" -password:Pine#Tar*9 -cores:2 -megabytes:6144
+
+OMI builds(temp): \\redmond\wsscfs\OSTCData\Builds\omi\develop\1.2.0-18\Linux_ULINUX_1.0_x64_64_Release
+
+New-NebWindowsVM -envName:PST -machineName:PSRP-W12R2-01 -vhdName:"Windows Server 2012 R2 DC w/SQL 2014 (SCX Joined)" -password:Pine#Tar*9 -cores:2 -megabytes:6144
+-------------------------------------------------------------------------------------------------------
+PSRP clients
+
+psl-ub16x64-01    10.226.219.32
+psl-cent7x64-01   10.226.226.162
+
+OMITST-CENT7-01.SCX.COM
+
+ping psl-cent7x64-01
+
+
+
+

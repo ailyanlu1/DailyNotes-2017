@@ -1,0 +1,65 @@
+OMITST-W12R2-01.SCX.COM  
+
+ping OMITST-W12R2-01
+
+omitst-cent7-01    10.193.247.65
+
+OMITST-UBUN16-01    10.193.246.155
+
+OMITST-MAC1011-01
+
+winrm enumerate?http://schemas.microsoft.com/wbem/wscim/1/cim-schema/2/OMI_Identify?__cimnamespace=root/omi?-r:https://"omitst-cent7-01":5986?-auth:Basic -u:"omitst-cent7-01\root"?-p:"Pine#Tar*9"-skipcncheck -skipcacheck -encoding:utf-8
+
+
+winrm enumerate http://schemas.microsoft.com/wbem/wscim/1/cim-schema/2/OMI_Identify?__cimnamespace=root/omi -r:https://OMITST-CENT7-01.SCX.COM:5986 -auth:Basic -u:root -p:Pine#Tar*9 -skipcncheck -skipcacheck -encoding:utf-8
+----------------------------------------------------------------------
+ping omitst-cent7-01
+----------------------------------------------------------------------
+/opt/omi/bin/omicli id -u $User -p $password --auth Basic --hostname OMITST-CENT7-01.SCX.COM --port $Port --encryption https
+
+/tmp/omicli id -u root -p Pine#Tar*9 --auth Basic --hostname OMITST-CENT7-01.SCX.COM --port 5986 --encryption https
+
+/tmp/omicli id -u 'root' -p 'Pine#Tar*9' --auth Basic --hostname 'psl-cent7x64-01' --port '5986' --encryption https
+----------------------------------------------------------------------
+
+omi 
+\\redmond\wsscfs\OSTCData\Builds\omi\develop\
+
+
+sudo yum install ./powershell-6.0.0_alpha.17-1.el7.centos.x86_64.rpm
+
+sudo rpm -i omi-1.2.0-121.ssl_100.ulinux.x64.rpm
+
+sudo rpm -i psrp-1.0.0-18.universal.x64.rpm
+
+OMITST-UBUN16-01.SCX.COM
+
+
+winrm enumerate http://schemas.microsoft.com/wbem/wscim/1/cim-schema/2/OMI_Identify?__cimnamespace=root/omi -r:https://OMITST-UBUN16-01.SCX.COM:5986 -auth:Basic -u:root -p:'Pine#Tar*9' -skipcncheck -skipcacheck -encoding:utf-8
+
+###########################################################################
+957007 should change as below:
+
+winrm enumerate http://schemas.microsoft.com/wbem/wscim/1/cim-schema/2/OMI_Identify?__cimnamespace=root/omi -r:https://$hostname:5986 -auth:Basic -u:$User -p:$linuxPasswordString -skipcncheck -skipcacheck -encoding:utf-8
+
+---------------------------------------------------------------------------------------------------
+SUM UP ==> The root cause
+
+
+That°Øs because CentOS install failed as below:
+Easy fix is to run yum update -y on CentOS machine. Good fix is added this command in Runbook, I have added it.
+You can try °∞yum install https://github.com/PowerShell/PowerShell/releases/download/v6.0.0-alpha.17/powershell-6.0.0_alpha.17-1.el7.centos.x86_64.rpm -y°± on CentOS machine to reproduce this issue.
+
+sudo yum install https://github.com/PowerShell/PowerShell/releases/download/v6.0.0-beta.1/powershell-6.0.0_beta.1-1.el7.centos.x86_64.rpm
+
+omi-auto-01 ¡¨≤ª…œ∞°
+
+
+
+
+
+
+
+
+
+
