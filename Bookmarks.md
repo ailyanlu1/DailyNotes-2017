@@ -1,6 +1,6 @@
 ## Index 
 
-`<span id="jump">Docs</span>
+<span id="jump">Docs</span>
 
 <span id="jump">CPP</span>
 
