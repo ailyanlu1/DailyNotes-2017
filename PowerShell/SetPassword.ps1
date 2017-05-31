@@ -7,3 +7,4 @@ $PassphraseFile=”$env:userprofile\password.txt”
 $ourEncryptPw =  Get-Content $PassphraseFile | ConvertTo-SecureString
 $ourCreds =  New-Object System.Management.Automation.PSCredential ($UserName, $ourEncryptPw)
 $ourDecryptPw = $ourCreds.GetNetworkCredential().Password
+echo $ourDecryptPw
