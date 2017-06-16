@@ -43,6 +43,21 @@
 
 [Linus：为何对象引用计数必须是原子的](http://coolshell.cn/articles/16910.html)
 
+[多线程程序中操作的原子性](http://www.parallellabs.com/2010/04/15/atomic-operation-in-multithreaded-application/)
+
+http://www.realworldtech.com/forum/?threadid=146066&curpostid=146227
+
+http://www.realworldtech.com/forum/?threadid=146066&curpostid=146183
+
+http://lxr.linux.no/linux+v2.6.26.5/include/asm-x86/atomic_32.h
+
+http://lkml.iu.edu/hypermail/linux/kernel/0810.1/0828.html
+
+http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2010/n3092.pdf
+
+
+
+
 
 
 
