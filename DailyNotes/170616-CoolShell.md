@@ -38,3 +38,5 @@
 #### Some Insteresting Tips
 
 [一些Linux技巧](http://coolshell.cn/articles/8883.html)
+
+[面向对象是个骗局](http://coolshell.cn/articles/3036.html)
