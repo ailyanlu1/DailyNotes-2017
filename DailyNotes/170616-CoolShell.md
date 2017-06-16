@@ -40,3 +40,11 @@
 [一些Linux技巧](http://coolshell.cn/articles/8883.html)
 
 [面向对象是个骗局](http://coolshell.cn/articles/3036.html)
+
+[Linus：为何对象引用计数必须是原子的](http://coolshell.cn/articles/16910.html)
+
+
+
+
+
+
