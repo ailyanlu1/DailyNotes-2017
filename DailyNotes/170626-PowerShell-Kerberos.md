@@ -27,10 +27,15 @@
 [PSRP Test Design Specification](https://github.com/PowerShell/psl-omi-provider/blob/AutomationTest/test/TestDesign/TestDesignSpecificationForPSRP.md)
 
 [PSRP.Tests.ps1](https://github.com/PowerShell/psl-omi-provider/blob/master/test/PSRP.Tests.ps1)
-
+-----------------------------
 ### Weekly Algorithm Practice
 
 https://github.com/haoel/leetcode/blob/master/algorithms/cpp/longestPalindromicSubstring/longestPalindromicSubstring.cpp
+-----------------------------
+### Appendix
+
+[更多 PowerShell 学习](https://msdn.microsoft.com/zh-cn/powershell/scripting/getting-started/more-powershell-learning)
+
 
 
 
