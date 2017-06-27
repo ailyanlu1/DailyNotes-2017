@@ -43,7 +43,7 @@ https://github.com/haoel/leetcode/blob/master/algorithms/cpp/longestPalindromicS
 
 [Objective-C to AppleScript Quick Translation Guide](https://developer.apple.com/library/content/documentation/LanguagesUtilities/Conceptual/MacAutomationScriptingGuide/AppendixA-AppleScriptObjCQuickTranslationGuide.html)
 
-
+[What Are Domains and Forests?](https://technet.microsoft.com/en-us/library/cc759073(v=ws.10).aspx#w2k3tr_logic_what_ovkc)
 
 
 
