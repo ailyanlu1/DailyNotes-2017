@@ -1,0 +1,59 @@
+How to build OMI source code:
+git clone https://github.com/Microsoft/omi
+cd omi
+cd Unix
+./configure --dev
+make 每j
+
+If you want to run unit tests: make tests>/root/result.txt
+
+If you want to debug:
+Server side:
+gdb --args /test/omi/Unix/output/bin/omiserver --loglevel 4 --httptrace 每l
+Client side:
+gdb --args /test/omi/Unix/output/bin/omicli ei root/cimv2 MSFT_President
+
+Some useful gdb command: break, s, run, bt, c, CRTL+D, etc
+---------------------------------------------------------------------------------------------------
+
+I have completed initial test framework for OMI: https://github.com/Microsoft/ostc-automation/pull/8
+You can add comments if you are free, I will hold a meeting tomorrow to share this test framework at Cana 10ㄩ00-11ㄩ00.
+
+How to run automation:
+
+Git clone https://github.com/Microsoft/ostc-automation
+Cd ostc-automation
+Open C:\git\ostc-automation\OMIAutomation\OMIAutomation.sln with VS and build the solution
+
+Open cmd as admin: cd C:\git\ostc-automation\OMIAutomation\OMIAutomation\bin\Debug
+RunOMIAutomation-Linux-Linux.bat
+RunOMIAutomation-Linux-Local.bat
+RunOMIAutomation-Linux-Win.bat
+RunOMIAutomation-Mac-Linux.bat
+RunOMIAutomation-Win-Linux.bat
+
+---------------------------------------------------------------------------------------------------
+
+Our code is on https://github.com/Microsoft/ostc-automation 
+You  can git clone https://github.com/Microsoft/ostc-automation 
+Then git checkout 每b wayne-omi
+Then modify your code
+Then git add .
+Then git commit . 每m ＆Add cases in Linux-Linux varmap＊
+Then git push origin wayne-omi
+
+Then New Pull Request on https://github.com/Microsoft/ostc-automation
+
+---------------------------------------------------------------------------------------------------
+
+I am writing a script to output the osversion: https://github.com/Microsoft/ostc-automation/blob/jumping-omi/OMIAutomation/OMIAutomation/GetOS.sh
+
+
+
+
+
+
+
+
+
+
