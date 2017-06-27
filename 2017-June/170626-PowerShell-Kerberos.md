@@ -33,10 +33,28 @@
 ### Weekly Algorithm Practice
 
 https://github.com/haoel/leetcode/blob/master/algorithms/cpp/longestPalindromicSubstring/longestPalindromicSubstring.cpp
+
 -----------------------------
 ### Appendix
 
 [更多 PowerShell 学习](https://msdn.microsoft.com/zh-cn/powershell/scripting/getting-started/more-powershell-learning)
+
+[Introduction to AppleScript Language Guide](https://developer.apple.com/library/content/documentation/AppleScript/Conceptual/AppleScriptLangGuide/introduction/ASLR_intro.html)
+
+[Objective-C to AppleScript Quick Translation Guide](https://developer.apple.com/library/content/documentation/LanguagesUtilities/Conceptual/MacAutomationScriptingGuide/AppendixA-AppleScriptObjCQuickTranslationGuide.html)
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
