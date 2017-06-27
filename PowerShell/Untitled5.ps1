@@ -1,0 +1,9 @@
+﻿$LinuxHostName = $env:LINUXHOSTNAME
+$LinuxUserName = $env:LINUXUSERNAME
+$linuxPasswordString = $env:LINUXPASSWORDSTRING
+$WindowsHostName = $env:WINDOWSHOSTNAME
+$WindowsUserName = $env:WINDOWSUSERNAME
+$windowsPasswordString = $env:WINDOWSPASSWORDSTRING
+$badUserName = "badUserName"
+$badPassword = "badPassword"
+$Port = 5986
