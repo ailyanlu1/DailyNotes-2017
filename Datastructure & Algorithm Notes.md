@@ -15,6 +15,8 @@
 
 [动态规划：从新手到专家](http://www.hawstein.com/posts/dp-novice-to-advanced.html)
 
+[动态规划之背包问题(一)](http://www.hawstein.com/posts/dp-knapsack.html)
+
 #### Bit Manipulation
 
 [位运算简介及实用技巧（一）：基础篇](http://www.matrix67.com/blog/archives/263)
