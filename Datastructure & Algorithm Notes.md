@@ -19,6 +19,8 @@
 
 [动态规划之背包问题(一)](http://www.hawstein.com/posts/dp-knapsack.html)
 
+[*cnblogs* 谈谈动态规划的思想](http://www.cnblogs.com/wuchanming/p/6528637.html)
+
 ### Bit Manipulation
 
 [位运算简介及实用技巧（一）：基础篇](http://www.matrix67.com/blog/archives/263)
