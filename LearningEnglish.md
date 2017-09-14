@@ -63,7 +63,25 @@ Serious breaking the rules: 0!
 The final interpretation is owned by the referee group!
 
 
+事实胜于雄辩 Actions speak louder than words.
 
+昨日不会重现 No one can call back yesterday.
+
+没有付出就没有收获 No pains, no gains.
+
+无风不起浪 No smoke without fire.
+
+旧瓶装新酒 New wine in old bottles.
+
+留得青山在，不怕没柴烧 Where there is life, there is hope.
+
+世上无难事，只怕有心人 Where there is a will, there is a way.
+
+三个臭皮匠胜过诸葛亮 Two heads are better than one.
+
+名利双收 Gain both fame and wealth.
+
+谋事在人，成事在天 Man proposes; God disposes.
 
 
 
