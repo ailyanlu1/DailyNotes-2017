@@ -33,7 +33,6 @@ Transfer & Translate
 
 
 There will be 3 teams,every team has 6 members.You will be given a English/Chinese idiom,the first guy should translate it into 
-
 English,and then transfer it in English one by one,the last guy should return the idom in English.
 
 
