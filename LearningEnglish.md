@@ -83,6 +83,33 @@ The final interpretation is owned by the referee group!
 
 事实胜于雄辩 Actions speak louder than words.
 
+------------------------------------------------
+
+事实胜于雄辩 Actions speak louder than words.
+
+三个臭皮匠胜过诸葛亮 Two heads are better than one.
+
+一分耕耘一分收获 No pains, no gains.
+
+旧瓶装新酒 New wine in old bottles.
+
+
+好事不出门，坏事传千里Bad news travels fast.
+
+一言既出，驷马难追A promise is a promise.
+
+留得青山在，不怕没柴烧 Where there is life, there is hope.
+
+世上无难事，只怕有心人 Where there is a will, there is a way.
+
+
+名利双收 Gain both fame and wealth.
+
+谋事在人，成事在天 Man proposes; God disposes.
+
+无风不起浪 No smoke without fire.
+
+昨日不会重现 No one can call back yesterday.
 
 
 
