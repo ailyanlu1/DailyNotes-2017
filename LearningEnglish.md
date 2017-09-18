@@ -40,20 +40,20 @@ One person from the another team will be the monitor,the voice shouldn't be hear
 meters.Every member can not use the phone!
 
 
-The last score is accaording to the results' accuracy and the time you cost.
+The last score is according to the results' accuracy and the time you cost.
 
 
 Score Caculating Rules:
 
-Basic points: 10
+Basic points: 15
 
 Right answer: +7
 
-Less time: No.1: +3  No.2: +1
+Less time: No.1: +3  No.2: +2  No.3: +1 
 
-Speak too loudly to be heard: -1
+Speak too loudly to be heard: -3
 
-Transfer in Chinese: -1
+Transfer in Chinese: -3
 
 The first one using keyword: -7
 
@@ -63,11 +63,7 @@ Serious breaking the rules: 0!
 The final interpretation is owned by the referee group!
 
 
-事实胜于雄辩 Actions speak louder than words.
-
 昨日不会重现 No one can call back yesterday.
-
-没有付出就没有收获 No pains, no gains.
 
 无风不起浪 No smoke without fire.
 
@@ -83,9 +79,9 @@ The final interpretation is owned by the referee group!
 
 谋事在人，成事在天 Man proposes; God disposes.
 
+一分耕耘，一分收获 No pains,no gains.
 
-
-
+事实胜于雄辩 Actions speak louder than words.
 
 
 
