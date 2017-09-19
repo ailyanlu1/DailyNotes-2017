@@ -8,7 +8,7 @@
 
 ## Datastructure
 
-
+[*PDF* LinkedListProblems](http://cslibrary.stanford.edu/105/LinkedListProblems.pdf)
 
 
 
