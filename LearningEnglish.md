@@ -28,9 +28,28 @@
 
 [Jamaica Inn: Part 1: Meet Mary Yellan](http://www.bbc.co.uk/learningenglish/english/features/drama/jamaica-ep-01)
 
+## 2017/09/28
 
+#### Two Dramas
+
+[Alice in Wonderland: Part 2: The pool of tears](http://www.bbc.co.uk/learningenglish/english/features/drama/aliceinwonderland-ep02)
+
+[Jamaica Inn: Part 2: A cold and lonely place](http://www.bbc.co.uk/learningenglish/english/features/drama/jamaica-ep-02)
+
+#### 
+
+Shaun of the Dead - [Don't stop me now](http://www.xiami.com/song/b00o2a5644?spm=a1z1s.6659513.0.0.myRDmp)
+
+[Bohemian Rhapsody](http://www.xiami.com/song/OF9I6df31?spm=a1z1s.6659513.0.0.WmYxRY)
+
+The Boat That Rocked --- Pirate Radio
+
+[The end of the world](http://www.xiami.com/song/bCk71IT4456d?spm=a1z1s.3521865.23309997.12.Fwq29z)
+
+[A Whiter Shade of Pale](http://www.xiami.com/song/JAK7Ee24580?spm=a1z1s.3521865.23309997.89.Fwq29z)
+
+----------------------------------------------
 Transfer & Translate
-
 
 There will be 3 teams,every team has 6 members.You will be given a English/Chinese idiom,the first guy should translate it into 
 English,and then transfer it in English one by one,the last guy should return the idom in English.
