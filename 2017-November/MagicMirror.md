@@ -9,6 +9,8 @@
 
 [少数派 打造树莓派魔镜](https://sspai.com/post/40094)
 
+[少数派 树莓派入门指南](https://sspai.com/column/162)
+
 ### Github Repository
 [HomeMirror](https://github.com/HannahMitt/HomeMirror)
 
@@ -16,5 +18,5 @@
 
 [MirrorMirror](https://github.com/ctrlaltdylan/MirrorMirror)
 
-## Q&A
+### Q&A
 [What is the maximum display resolution Pi can support?](https://www.raspberrypi.org/forums/viewtopic.php?f=29&t=187737)
