@@ -7,6 +7,8 @@
 
 [36Kr 智能镜子](http://36kr.com/p/5043096.html)
 
+[The end result of the Magic Mirror](http://michaelteeuw.nl/post/84026273526/and-there-it-is-the-end-result-of-the-magic)
+
 [少数派 打造树莓派魔镜](https://sspai.com/post/40094)
 
 [少数派 树莓派入门指南](https://sspai.com/column/162)
