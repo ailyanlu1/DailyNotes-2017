@@ -9,7 +9,7 @@
 
 [The end result of the Magic Mirror](http://michaelteeuw.nl/post/84026273526/and-there-it-is-the-end-result-of-the-magic)
 
-[Magic Mirror 2](The end result of the Magic Mirror.)
+[Magic Mirror 2](https://magicmirror.builders/)
 
 [少数派 打造树莓派魔镜](https://sspai.com/post/40094)
 
