@@ -9,6 +9,8 @@
 
 [The end result of the Magic Mirror](http://michaelteeuw.nl/post/84026273526/and-there-it-is-the-end-result-of-the-magic)
 
+[Magic Mirror 2](The end result of the Magic Mirror.)
+
 [少数派 打造树莓派魔镜](https://sspai.com/post/40094)
 
 [少数派 树莓派入门指南](https://sspai.com/column/162)
