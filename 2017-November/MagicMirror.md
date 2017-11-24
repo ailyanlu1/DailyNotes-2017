@@ -28,3 +28,7 @@
 
 ### Q&A
 [What is the maximum display resolution Pi can support?](https://www.raspberrypi.org/forums/viewtopic.php?f=29&t=187737)
+
+[Chip pro](https://nextthing.co/pages/store)
+
+
