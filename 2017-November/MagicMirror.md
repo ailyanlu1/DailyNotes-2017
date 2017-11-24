@@ -11,6 +11,8 @@
 
 [少数派 树莓派入门指南](https://sspai.com/column/162)
 
+[树莓派实验室 树莓派能用来做啥?](http://shumeipai.nxez.com/what-raspi-used-for)
+
 ### Github Repository
 [HomeMirror](https://github.com/HannahMitt/HomeMirror)
 
