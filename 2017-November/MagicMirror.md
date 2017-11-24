@@ -1,5 +1,7 @@
 ## Magic Mirror 2017/11/24
 
+[Compiles successfully on armv7 (raspberry pi).](https://github.com/Microsoft/omi/pull/304)
+
 ### 参考链接
 [用树莓派3制作智能镜子（MagicMirror）](http://yupae.cn/iot/magicmirror)
 
