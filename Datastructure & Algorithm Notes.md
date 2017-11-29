@@ -10,12 +10,16 @@
 
 ## Datastructure
 
+[List of Datastructures](https://en.wikipedia.org/wiki/List_of_data_structures)
+
 [*PDF* LinkedListProblems](http://cslibrary.stanford.edu/105/LinkedListProblems.pdf)
 
 
 
 
 ## Algorithm
+
+[CoolShell 一些重要的算法](https://coolshell.cn/articles/2583.html)
 
 ### Dynamic Programming
 
