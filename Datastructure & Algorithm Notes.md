@@ -2,6 +2,8 @@
 
 ## Books & Blogs
 
+[Dictionary of Algorithms and Data Structures](https://xlinux.nist.gov/dads/)
+
 [Cracking the Coding Interview](http://www.hawstein.com/posts/ctci-solutions-contents.html)
 
 [July](http://www.jiuzhang.com/course/1/)
