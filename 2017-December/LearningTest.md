@@ -76,3 +76,21 @@ node.js:
 https://github.com/appetizeio/appium-samples/blob/master/node.js/ios-basic.js#L21
 
 https://github.com/appetizeio/appium-samples/blob/master/node.js/android-basic.js#L21 
+
+
+[Mac下搭建appium](http://qa.blog.163.com/blog/static/190147002201510161119832/)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
