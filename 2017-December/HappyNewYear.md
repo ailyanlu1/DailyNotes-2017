@@ -6,6 +6,8 @@
 
 [GitHub](https://github.com/kevin-wayne/algs4)
 
-## Computer Graphics
+## Computer Graphics :pencil:
 
 https://www.zhihu.com/question/26720808
+
+https://www.douban.com/doulist/1445744/
