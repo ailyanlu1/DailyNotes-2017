@@ -4,7 +4,11 @@
 
 [Algorithms, 4th Edition ](https://algs4.cs.princeton.edu/home/)
 
-[GitHub](https://github.com/kevin-wayne/algs4)
+[GitHub](https://github.com/kevin-wayne/algs4) 
+
+## CS 97SI: Introduction to Programming Contests :book:
+
+[CS 97SI: Introduction to Programming Contests](https://web.stanford.edu/class/cs97si/)
 
 ## Computer Graphics :pencil:
 
