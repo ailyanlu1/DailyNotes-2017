@@ -27,3 +27,5 @@ https://www.douban.com/doulist/1445744/
 [Mac 系统重装的那些坑](https://sspai.com/post/39628)
 
 [macOS Sierra 公测版升级和降级教程](https://sspai.com/post/34781)
+
+[iCloud 照片](https://sspai.com/post/31553)
