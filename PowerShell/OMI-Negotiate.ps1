@@ -1,4 +1,4 @@
-$PWord = convertto-securestring '05eOsG^17' -asplaintext -force
+$PWord = convertto-securestring '0******7' -asplaintext -force
 $Cred = New-Object –TypeName System.Management.Automation.PSCredential –ArgumentList omi-cent7x64-t1\root, $PWord
 $CimSessionOption = New-CimSessionOption -UseSsl:$false -SkipCACheck:$true -SkipCNCheck:$true -SkipRevocationCheck:$true -NoEncryption
 $CimSession=New-CimSession -Credential:$Cred -ComputerName:omi-cent7x64-t1 -Port:5985 -Authentication:Negotiate -SessionOption:$CimSessionOption
